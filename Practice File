@@ -1,0 +1,11 @@
+1. first make a new folder 
+2. then make a file 
+open terminal in from the folder 
+git init to git attached to github 
+add your code to your file 
+save your file 
+git add . to add all info (save in terminal)
+git commit -m "messge for yourself about saved file" 
+then copy and paste git push info to save rest of file (for first time)
+all times after put git push 
+hope this helps 
